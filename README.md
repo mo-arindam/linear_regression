@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> This is a multiple linear regression programming assignment wherein we have to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Bike-sharing lets you rent bikes from stations (docks), pay, and unlock them with a computer system. You can return the bike to any other station in the network.
+- BoomBikes, a US bike-sharing company, is struggling due to COVID-19's revenue slump. To survive, they're crafting a plan to boost income once restrictions ease and the economy recovers.
+- The task involves developing a model to predict shared bike demand using various independent variables. This model will help management understand how demand fluctuates with different factors, allowing for strategic adjustments to align with demand and customer expectations. Additionally, it offers insights into demand dynamics in new markets, aiding in strategic planning and market understanding.
+- The raw data is given as a CSV files which contains 730 rows and 16 columns. It also accompany data dictionary in text format
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
