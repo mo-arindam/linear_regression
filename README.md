@@ -19,10 +19,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- 1. yr : indicates a significant year-on-year increase in bike rental demand, reflecting possibly the growing popularity of the bike-sharing service.
+- 2. temp : Higher temperatures are positively associated with increased bike rental demand, likely due to more favorable weather conditions for biking.
+- 3. atemp (Feeling temperature in Celsius): Similar to temp, the 'feels like' temperature also positively influences bike rental demand, indicating that people's perception of comfortable weather conditions plays a significant role in their decision to rent bikes.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
